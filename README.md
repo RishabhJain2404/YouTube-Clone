@@ -1,5 +1,6 @@
 # YouTube Clone Application
 
+![result](https://github.com/RishabhJain2404/YouTube-Clone/assets/127675963/cac54aff-7c66-4810-b705-1c7ac0b10fb7)
 Developed a resilient YouTube clone application, leveraging the power of cutting-edge web technologies. My toolbox included ReactJS, Rapid API and Material UI v5, each seamlessly integrated to craft a digital experience that resonated with modern users.
 
 Throughout the development process, I implemented a host of key features that elevated the application's functionality to new heights. Video sections, custom categories, channel pages, and seamless video playback were meticulously woven together to mirror the fluidity and engagement of the original platform. The focus was not just on replicating features, but on capturing the essence of user interaction that makes the original platform so compelling.
